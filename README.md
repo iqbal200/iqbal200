@@ -21,7 +21,7 @@ I'm **Iqbal**.
 :key: I’m currently learning back-end technology with **node.js**, **express**, and **mongodb**. And currently learning about data manipulation and analysis with **mysql**.
 
 <p align="left">
-<a href="https://github.com/Avlach30">
+<a href="https://github.com/iqbal200">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avlach30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avlach30&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -29,7 +29,7 @@ I'm **Iqbal**.
 
 ### Connect with me
 
-[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakia-avlach/)
+[![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-tamrin/)
 
 ### Tools Used:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
