@@ -4,7 +4,7 @@ I'm **Iqbal**.
 
 :books: I'm currently an **Informatics Engineer** student at State Fajar University of Makassar
 
-:zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **data** technology.
+:zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer** technology.
 
 :bulb:  I like several programming languages, especially **Koltin**,and **Dart**.
 
