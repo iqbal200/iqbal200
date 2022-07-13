@@ -7,10 +7,6 @@ I'm **Iqbal**.
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **data** technology.
 
 :bulb:  I like several programming languages, especially **Koltin**,and **Dart**.
-:dart:  I have several certification about **Mobile Developer** and **data** technology:
-1. [Belajar GIT]([https://ude.my/UC-a81924ca-1bf2-4b8e-bd19-bd653ae03ab2](https://d2w8fsc1wkigu3.cloudfront.net/1331800/cb0167c93ca5b25bb6915742bf958dab/certificates/courses/2478cefcabc7a2ef039ecb467f32ce19course_certificate_59e76685qmrpuz.pdf)) - Progate
-
-
 
 <p align="left">
 <a href="https://github.com/iqbal200">
