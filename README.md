@@ -2,8 +2,8 @@
 
 I'm **Iqbal Tamrin**.
 
-**Note**
-"Kerjakan perintah yang pertama — Iqra!"
+> **Note**
+>"Kerjakan perintah yang pertama — Iqra!"
 
 :books: I'm currently an **Informatics Engineer** student at State Fajar University of Makassar
 
@@ -52,8 +52,4 @@ I'm **Iqbal Tamrin**.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-> **Note**
-> This is a note
 
-> **Warning**
-> This is a warning
