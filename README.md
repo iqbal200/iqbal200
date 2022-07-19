@@ -6,8 +6,6 @@ I'm **Iqbal Tamrin**.
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**.
 
-:bulb:  I like several programming languages, especially **Koltin**,and **Dart**.
-
 <p align="left">
 <a href="https://github.com/iqbal200">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iqbal200&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
