@@ -5,7 +5,8 @@ I'm **Iqbal Tamrin**.
 
 :books: I'm currently an **Informatics Engineer** student at State Fajar University of Makassar
 
-:zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**.
+:zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
+
 :bulb:  I like several programming languages, especially **Kotlin** and **Dart**.
 
 <p align="left">
