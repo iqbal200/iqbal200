@@ -6,7 +6,7 @@ I'm **Iqbal Tamrin**.
 :books: I'm currently an **Informatics Engineer** student at State Fajar University of Makassar
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**.
-I like several programming languages, especially javascript, sql, and python.
+:bulb:  I like several programming languages, especially **Kotlin** and **Dart**.
 
 <p align="left">
 <a href="https://github.com/iqbal200">
