@@ -1,4 +1,4 @@
-## Bissmillah
+## Assalamualaikum Warahmatullahi Wabarakatu
 ## Hi there 👋
 
 I'm **Iqbal Tamrin**.
