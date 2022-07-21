@@ -3,7 +3,7 @@
 
 I'm **Iqbal Tamrin**.
 
-:books: I'm currently an **Informatics Engineer** student at State Fajar University of Makassar
+:books: I'm currently an **Informatics Engineer** student at State Fajar University
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
 
