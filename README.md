@@ -19,7 +19,7 @@ I'm **Iqbal Tamrin**.
 ### Connect with me
 
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-tamrin/)
-### Visit me at
+
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/this_is_iqbal)
 
