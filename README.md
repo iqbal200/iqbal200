@@ -1,5 +1,5 @@
 
-## Hi there 👋🖥️
+## Hello Word 👋🖥️
 
 ## I'm **Iqbal Tamrin**.
 
