@@ -1,5 +1,5 @@
 
-## Hello there  👋🖥️
+## Hello  👋🖥️
 
 ## I'm **Iqbal**.
 
