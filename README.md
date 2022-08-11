@@ -3,7 +3,7 @@
 
 ## I'm **Iqbal**.
 
-:books: I'm currently an **Informatics Engineer** student at State Fajar University
+:books: I'm currently an **Informaticss Engineer** student at State Fajar University
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
 
