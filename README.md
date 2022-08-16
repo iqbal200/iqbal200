@@ -7,7 +7,7 @@
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
 
-:bulb:  I lieke several programming languages, especially **Kotlin** and **Dart**.
+:bulb:  I like several programming languages, especially **Kotlin** and **Dart**.
 
 <p align="left">
 <a href="https://github.com/iqbal200">
