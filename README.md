@@ -1,7 +1,7 @@
-R
+
 ## Hello  👋🖥️
 
-## I'm **Iqbaalll**.
+## I'm **Iqbal**.
 
 :books: I'm currently an **Informatics Engineer** student at State Fajar University
 
