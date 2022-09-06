@@ -1,8 +1,7 @@
 
 ## Hello  👋🖥️
 
-## I'm **Iqbal**.
-Drddrddd
+## I'm **Iqbal**
 :books: I'm currently an **Informatics Engineer** student at State Fajar University
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
@@ -51,4 +50,4 @@ Drddrddd
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 > **Note**
->"Kerjakan perintah yang — Iqra!"
+>"Kerjakan perintah yang pertama — Iqra!"
