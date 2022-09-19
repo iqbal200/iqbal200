@@ -2,7 +2,7 @@
 ## Hello  👋🖥️
 
 ## I'm **Iqbal**
-:books: I'm currently an **Informatics Engineer** student at State Fajar University
+:books: I'm currently a freelancer Mobile App Developer
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
 
