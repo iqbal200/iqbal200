@@ -1,7 +1,7 @@
 
 ## Hello  👋🖥️
 
-## I'm **Iqba Tamrin**
+## I'm **Iqbal Tamrin**
 :books: I'm currently a freelancer **Mobile Apps Developer**
 
 :zap: I'm tech enthusiast, especially **Mobile Apps Developer** and **UI/UX Designer**
